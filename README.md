@@ -1,4 +1,3 @@
-````markdown
 # Blog Scraper and CSV Exporter
 
 This Python script is designed to scrape blog post titles and their view counts from a specified blog URL and export the data into a CSV file. The script uses `requests` to fetch the webpage, `BeautifulSoup` from `bs4` for parsing HTML, and the `csv` module to write the data into a CSV file.
@@ -21,7 +20,6 @@ You can install these packages using pip:
 ```bash
 pip install requests beautifulsoup4
 ```
-````
 
 ## Usage
 
@@ -55,7 +53,4 @@ This script is for educational purposes only. Please ensure you have permission 
 
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
-```
 
-This README provides a concise overview of the script, including its purpose, features, requirements, usage instructions, output description, a disclaimer regarding ethical web scraping, and licensing information. Make sure to create a `LICENSE` file if you reference it in the README.
-```
