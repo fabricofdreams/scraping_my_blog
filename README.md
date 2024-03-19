@@ -32,7 +32,7 @@ pip install requests beautifulsoup4
 2. Run the script:
 
    ```bash
-   python main.py
+   python read.py
    ```
 
 3. The script will create a CSV file named with the current date, containing the blog post titles and view counts.
